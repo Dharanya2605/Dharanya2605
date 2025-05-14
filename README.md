@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dharanya.
 - 👀 I’m an aspiring Data Analyst.
-- 🌱 I’m currently learning FrontendDevelopment. 
-              Currently, I have learnt HTML,CSS 
+- 🌱 I’m currently doing my bachelor's degree in the stream of Computer Science and Business Systems. 
+              I am eagerly expanding my knowledge on data analytics,machine learning, web development and sql for databases. 
 - 💞️ I’m looking to collaborate with TECH ENTHUSIASTS on LINKEDIN.
 - 📫 How to reach me 
               LINKEDIN: www.linkedin.com/in/dharanya05
