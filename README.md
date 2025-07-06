@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharanya S</h1>
 <h3 align="center">Aspiring Data Analyst | Java | Passionate DSA, and Building Smart Solutions</h3>
 
-- 🌱 I’m currently learning **Data Analytics** and **Front-end Development**
-- 🤝 I’m looking for help with **building SaaS Applications**
+- 🌱 I’m currently learning **Data Analytics** and **DSA**
 - 📫 How to reach me: **dharanyasenthilkumar05@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/157RIot4T1tBl2XVVONM5mDfHcnkRXelP/view?usp=sharing)
 
